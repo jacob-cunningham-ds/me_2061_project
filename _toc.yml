@@ -1,0 +1,21 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: Report
+    chapters:
+    - file: problem_setup
+    - file: finite_element_solution
+    - file: data
+    - file: pod_modes
+    - file: rom
+    - file: unseen_data
+    - file: field_reconstruction
+  - caption: My MATLAB
+    chapters:
+    - file: my_matlab
+  - caption: Provided MATLAB
+    chapters:
+    - file: given_matlab
