@@ -8,7 +8,7 @@ Prepared by Jacob Cunningham
 
 This report details the operations performed to build a parametric ROM for a transient heat conduction problem in a plate with a cylindrical hole.
 
-Source code is available at this GitHub repository. Alternatively, you can download the MATLAB and project assignment file here:
+Source code is available at this [GitHub repository](https://github.com/jacob-cunningham-ds/me_2061_project). Alternatively, you can download the MATLAB and project assignment file here:
 
 {download}`Project Assignment <downloads/Project-1.pdf>`
 {download}`main.m <downloads/main.m>`
