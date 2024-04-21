@@ -1,6 +1,6 @@
 # Source Code
 
-The following MATLAB code was used for this project.  The MATLAB files, and associated files to build this Jupyter Book, can be retreived from this GitHub repository.
+The following MATLAB code was used for this project.  The MATLAB files, and associated files to build this Jupyter Book, can be retreived from this [GitHub repository](https://github.com/jacob-cunningham-ds/me_2061_project).
 
 ## main.m
 
