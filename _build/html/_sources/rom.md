@@ -6,7 +6,7 @@ To solve the ROM you must first complete the function `ROM_rhs` and then use `So
 
 Compare the FOM and ROM temperature contours at the last snapshot. Also, compare the FOM and ROM temperature profile on the top half of the cylinder at times $t = 0.01, 0.03, 0.05$. Use the function `ExtractCylinderT` to extract the temperature on the top half of the cylinder surface ($0 \leq \theta \leq 180$). An example of using this function is shown in `main.m`.
 
-MATLAB code was used to build the ROM, check the validity of the ROM by solving the ROM for the last sample $\theta = 0$ as shown in Figure {numref}`fom_rom_theta_0`, compare the FOM and ROM temperature contours at the last snapshot as shown in Figure {numref}`fom_rom_theta_0` through Figure {numref}`fom_rom_theta_180`, and compare the FOM and ROM temperature profile on the top half of the cylinder at times $t = 0.01, 0.03, 0.05$ in Figure {numref}`cyl_theta_0` through Figure {numref}`cyl_theta_180`.
+MATLAB code was used to build the ROM, check the validity of the ROM by solving the ROM for the last sample $\theta = 0$ as shown in {numref}`fom_rom_theta_0`, compare the FOM and ROM temperature contours at the last snapshot as shown in {numref}`fom_rom_theta_0` through {numref}`fom_rom_theta_180`, and compare the FOM and ROM temperature profile on the top half of the cylinder at times $t = 0.01, 0.03, 0.05$ in {numref}`cyl_theta_0` through {numref}`cyl_theta_180`.
 
 ## Comparing FOM and ROM Last Snapshots
 

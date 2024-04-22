@@ -8,7 +8,7 @@ The function `SolveFOM` solves the finite element problem and returns the soluti
 
 ## Geometry and Mesh Generation
 
-MATLAB code was used to generate the geometry and mesh for this project shown in Figure {numref}`geometry_build` and Figure {numref}`mesh`.
+MATLAB code was used to generate the geometry and mesh for this project shown in {numref}`geometry_build` and {numref}`mesh`.
 
 ```{figure} img/geometry_build.png
 ---

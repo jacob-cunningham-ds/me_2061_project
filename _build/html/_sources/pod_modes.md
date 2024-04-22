@@ -2,11 +2,11 @@
 
 Compute the proper orthogonal decomposition (POD) modes for the data matrix `T`. Plot the first 4 POD modes. Plot the first 50 singular values in a semilogy figure. How many modes are required to capture 99% of the energy? Let that number be denoted by $r$ and use $r$ POD modes in the rest of this project.
 
-MATLAB code was used to generate the first four POD modes shown in Figure {numref}`pod_mode_1` through {numref}`pod_mode_4`, plots the first 50 singular values in Figure {numref}`first_50_svs`, finds the number of modes to capture 99% of the total energy, and plots the cumulative energy as a percentage in Figure {numref}`cumsum`.
+MATLAB code was used to generate the first four POD modes shown in {numref}`pod_mode_1` through {numref}`pod_mode_4`, plots the first 50 singular values in {numref}`first_50_svs`, finds the number of modes to capture 99% of the total energy, and plots the cumulative energy as a percentage in {numref}`cumsum`.
 
 ## First 4 POD Modes
 
-Figure {numref}`pod_mode_1` through Figure {numref}`pod_mode_4` show the first four POD modes.
+{numref}`pod_mode_1` through {numref}`pod_mode_4` show the first four POD modes.
 
 ```{figure} img/pod_mode_1.png
 ---
@@ -38,7 +38,7 @@ POD mode 4
 
 ## First 50 Singular Values
 
-Figure {numref}`first_50_svs` shows the first 50 singular values.
+{numref}`first_50_svs` shows the first 50 singular values.
 
 ```{figure} img/first_50_svs.png
 ---
@@ -51,7 +51,7 @@ First 50 singular values
 
 The number of modes to required to capture 99% of the energy is **6 modes**.  
 
-The cumulative energy as a percentage is shown in Figure {numref}`cumsum`.
+The cumulative energy as a percentage is shown in {numref}`cumsum`.
 
 ```{figure} img/cumsum.png
 ---

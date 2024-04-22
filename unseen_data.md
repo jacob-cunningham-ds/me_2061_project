@@ -4,7 +4,7 @@ Use the ROM to solve for a new heat source parameter at $\theta = 170$. Note tha
 
 Compare the FOM and ROM temperature contours for the last snapshot. Also, compare the FOM and ROM temperature profiles on the top half of the cylinder at times $t = 0.01, 0.03, 0.05$.
 
-MATLAB code was used to solve for a new heat source at $\theta = 170$, compare the FOM and ROM tempearature contours for the last snapshot as shown in Figure {numref}`fom_rom_theta_170`, and compare the FOM and ROM temperature profiles on the top half of the cylinder at times $t = 0.01, 0.03, 0.05$ as shown in Figure {numref}`cyl_theta_170`.
+MATLAB code was used to solve for a new heat source at $\theta = 170$, compare the FOM and ROM tempearature contours for the last snapshot as shown in {numref}`fom_rom_theta_170`, and compare the FOM and ROM temperature profiles on the top half of the cylinder at times $t = 0.01, 0.03, 0.05$ as shown in {numref}`cyl_theta_170`.
 
 ## Comparing FOM and ROM Last Snapshots
 
