@@ -6,7 +6,7 @@ You need to first generate the true temperature field for generating synthetic d
 
 Use these sensor measurements along with the POD modes to reconstruct the temperature at all points. Plot the reconstructed temperature field and true temperature field. Also, plot the contours of error by subtracting the reconstructed field from the true field.
 
-MATLAB code was used to reconstruct the temperature field everywhere in the domain, run the FOM for $\theta = 15$, use `ExtractCylidnerT` function to extract the temperature at the top surface of the cylinder, plot the reconstructed temperature field and true temperature field as shown in Figure BLANK, and plot the contours of error as shown in {numref}`field_compare`.
+MATLAB code was used to reconstruct the temperature field everywhere in the domain, run the FOM for $\theta = 15$, use `ExtractCylidnerT` function to extract the temperature at the top surface of the cylinder, plot the reconstructed temperature field and true temperature field, and plot the contours of error as shown in {numref}`field_compare`.
 
 ## Temperature Field Comparison
 
